@@ -1,4 +1,4 @@
-# work_3  Bresenham、改进Bresenham算法生成直线段实验
+# Work_3  Bresenham、改进Bresenham算法生成直线段实验
 
 时间：2022年3月30日
 地点：信息学院2204机房

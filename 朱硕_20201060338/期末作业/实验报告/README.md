@@ -122,15 +122,15 @@ Visual C++, OpenGL, Java等工具；
 <img src="1.png" width="40%">  
 ## 四、实验结果
 ### 1.实验截图
-茶壶图像如下:  
+茶壶图像如下: <br />
 <img src="2.png" width="40%">  
-旋转中的茶壶图像如下：
+旋转中的茶壶图像如下：<br />
 <img src="3.png" width="40%">  
 <img src="4.png" width="40%">  
-更改纹理参数后的茶壶图像如下：
+更改纹理参数后的茶壶图像如下：<br />
 <img src="5.png" width="40%">  
 <img src="6.png" width="40%">  
-更改光源位置后的茶壶图像如下：
+更改光源位置后的茶壶图像如下：<br />
 <img src="7.png" width="40%">  
 <img src="8.png" width="40%">  
 

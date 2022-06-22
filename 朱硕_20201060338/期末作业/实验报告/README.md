@@ -119,7 +119,7 @@ Visual C++, OpenGL, Java等工具；
     glEnable(GL_DEPTH_TEST);
     }
 程序实现步骤如下图所示：<br />
-<img src="1.png" width="40%">  
+<img src="1.png" width="60%">  
 ## 四、实验结果
 ### 1.实验截图
 茶壶图像如下: <br />
